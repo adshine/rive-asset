@@ -12,10 +12,10 @@ This repository hosts Rive animation files for use in Framer projects.
 ## Usage
 
 These files are hosted via GitHub Pages and can be accessed at:
-- https://adshine.github.io/framer-rive-assets/radmulti.riv
-- https://adshine.github.io/framer-rive-assets/radsingle.riv
-- https://adshine.github.io/framer-rive-assets/rotation.riv
-- https://adshine.github.io/framer-rive-assets/stroke.riv
+- https://adshine.github.io/rive-asset/radmulti.riv
+- https://adshine.github.io/rive-asset/radsingle.riv
+- https://adshine.github.io/rive-asset/rotation.riv
+- https://adshine.github.io/rive-asset/stroke.riv
 
 ## Framer Integration
 
